@@ -706,6 +706,7 @@
     .logo-wrapper
     {
         padding: 25px 0 15px ;
+        display: none;
     }
     .nav-t-holder .nav-t-footer ul.nav > li ul.submenu li a
     {
