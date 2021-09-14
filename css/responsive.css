@@ -398,7 +398,7 @@
         margin: 0 0.3em 0.2em;
     }
     .about-tab-box .single-tab-content .abot-img img {
-        width: 49%;
+        width: 100%;
         float: left;
     }
     .req-img {
@@ -812,7 +812,7 @@
     .wel-right,
     .about-tab-box .single-tab-content .abot-img,
     .right-ser {
-        display: none;
+        display: block;
     }
     .service-content {
         padding: 0 15px;
